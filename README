@@ -1,0 +1,11 @@
+Railroad syntax diagram generator
+Feb. 9, 2012
+NOT authored by jsyang.ca@gmail.com, originally found at the following places:
+
+http://wiki.tcl.tk/21708
+http://stackoverflow.com/questions/773371/what-is-a-good-tool-for-creating-railroad-diagrams/773453#773453
+http://www.sqlite.org/docsrc/artifact/46e904a66f
+
+For example syntax see http://www.sqlite.org/docsrc/artifact/46e904a66f
+Create "bubble-generator-data.tcl" in the same path as this script, and run:
+OSX$ wish bubble-generator.tcl
